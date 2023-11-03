@@ -1,4 +1,4 @@
-package RestaurantBillGenerator;
+package p4_RestaurantCafeBillGenerator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ public class DishService {
     //henuz database imiz olmadigi icin;
 //5-yiyecekleri burada bir listeye koyalim;
 
-    private List<Dish> dishList = new ArrayList<>(); //eleman ekleyebilmek icin listemizi olusturduk->
+    List<Dish> dishList = new ArrayList<>(); //eleman ekleyebilmek icin listemizi olusturduk->
                                                      // sadece bu classtan ulasilsin ve duzenlenebilsin
 
     //5a- yiyecekleri olustur ve listeye ekle (yiyecek objelerini olustur ve listeye ekle)

@@ -1,4 +1,4 @@
-package biletRezervasyonApp;
+package p3_biletRezervasyonApp;
 
 public class Ticket {
     //4-mesafe(km), seat num, fiyat, yon(tek-cift) bilgileri set edilecek

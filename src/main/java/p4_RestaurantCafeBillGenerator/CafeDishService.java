@@ -1,4 +1,4 @@
-package RestaurantCafeBillGenerator;
+package p4_RestaurantCafeBillGenerator;
 
 public class CafeDishService extends DishService{
 

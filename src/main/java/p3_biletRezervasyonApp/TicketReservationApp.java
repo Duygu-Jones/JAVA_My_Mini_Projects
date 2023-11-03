@@ -1,4 +1,4 @@
-package biletRezervasyonApp;
+package p3_biletRezervasyonApp;
 
   /*
 Project: Bilet Rezervasyon ve Bilet Fiyatı Hesaplama Uygulaması

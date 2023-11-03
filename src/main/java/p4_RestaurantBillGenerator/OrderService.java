@@ -1,4 +1,4 @@
-package RestaurantCafeBillGenerator;
+package p4_RestaurantBillGenerator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,7 +11,7 @@ public class OrderService {
 
 
     //girilen orderlari hepsini bir arada bir listede tutmak gerekir--> liste olusturalim (Order class'indan bir orderList olustur)
-    public List<Order> orderList = new ArrayList<>(); // bu class, bu orderList,(garson) diyelim; sadece bir masanin siparisleri icin hazirlaniyor:)
+    public List< Order> orderList = new ArrayList<>(); // bu class, bu orderList,(garson) diyelim; sadece bir masanin siparisleri icin hazirlaniyor:)
 
 
 

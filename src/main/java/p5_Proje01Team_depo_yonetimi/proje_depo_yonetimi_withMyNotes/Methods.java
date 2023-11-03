@@ -1,4 +1,4 @@
-package projeEng_depo_yonetimi;
+package p5_Proje01Team_depo_yonetimi.proje_depo_yonetimi_withMyNotes;
 
 import java.util.*;
 

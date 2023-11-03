@@ -1,4 +1,4 @@
-package RestaurantBillGenerator;
+package p4_RestaurantBillGenerator;
 
 //Bir siparis kalemi icin olusturulan class; burada siparis objeleri olusturacagiz= > sadece siparislerin ozellilerini birarada tutan class
 public class Order { //POJO CLASS2

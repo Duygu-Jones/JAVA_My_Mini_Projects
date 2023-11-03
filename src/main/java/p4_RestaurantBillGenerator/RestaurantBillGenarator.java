@@ -1,4 +1,4 @@
-package RestaurantBillGenerator;
+package p4_RestaurantBillGenerator;
 
 import java.util.Scanner;
 

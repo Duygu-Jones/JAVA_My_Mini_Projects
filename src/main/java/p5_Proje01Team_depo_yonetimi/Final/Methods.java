@@ -1,4 +1,4 @@
-package Proje01Eng_depo_yonetimifinal;
+package p5_Proje01Team_depo_yonetimi.Final;
 
 
 import java.util.*;

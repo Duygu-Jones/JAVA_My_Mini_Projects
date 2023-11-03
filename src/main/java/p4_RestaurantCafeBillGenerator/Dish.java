@@ -1,4 +1,4 @@
-package RestaurantBillGenerator;
+package p4_RestaurantCafeBillGenerator;
 
 //3.adim: yiyecek objesi olusturma;
 //Task 2-Restauranttaki yiyecekler bir listte tutulsun.
